@@ -1,0 +1,324 @@
+{"frames": [
+
+{
+	"filename": "aberhart.png",
+	"frame": {"x":771,"y":1404,"w":373,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":373,"h":442},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "aheer-hipster.png",
+	"frame": {"x":805,"y":1,"w":395,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":395,"h":467},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "aheer.png",
+	"frame": {"x":2006,"y":1,"w":400,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":400,"h":452},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "ambrose.png",
+	"frame": {"x":3343,"y":465,"w":286,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":286,"h":454},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "anderson.png",
+	"frame": {"x":1604,"y":1,"w":400,"h":456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":400,"h":456},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "bilous.png",
+	"frame": {"x":2201,"y":1387,"w":274,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":274,"h":454},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "braid.png",
+	"frame": {"x":402,"y":469,"w":399,"h":464},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":399,"h":464},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "carter.png",
+	"frame": {"x":803,"y":470,"w":392,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":392,"h":462},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "ceci.png",
+	"frame": {"x":3294,"y":921,"w":340,"h":451},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":340,"h":451},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "cow.png",
+	"frame": {"x":374,"y":1407,"w":395,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":395,"h":439},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "douglas.png",
+	"frame": {"x":1546,"y":463,"w":280,"h":465},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":280,"h":465},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "fildebrandt.png",
+	"frame": {"x":2239,"y":921,"w":378,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":378,"h":453},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "ford.png",
+	"frame": {"x":1,"y":938,"w":398,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":467},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "harper.png",
+	"frame": {"x":2566,"y":453,"w":385,"h":456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":385,"h":456},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "hogan.png",
+	"frame": {"x":1145,"y":934,"w":378,"h":466},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":378,"h":466},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "horgan.png",
+	"frame": {"x":1887,"y":926,"w":350,"h":459},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":350,"h":459},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "jansen.png",
+	"frame": {"x":1202,"y":1,"w":400,"h":460},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":400,"h":460},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "kenney-hipster.png",
+	"frame": {"x":2202,"y":455,"w":362,"h":464},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":3,"w":362,"h":464},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "kenney.png",
+	"frame": {"x":1,"y":1407,"w":371,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":27,"w":371,"h":440},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "klein.png",
+	"frame": {"x":1529,"y":1398,"w":300,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":300,"h":449},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "lang.png",
+	"frame": {"x":1,"y":1,"w":400,"h":466},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":400,"h":466},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "larivee.png",
+	"frame": {"x":2906,"y":915,"w":386,"h":451},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":386,"h":451},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "manning.png",
+	"frame": {"x":2847,"y":1368,"w":384,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":384,"h":452},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "mendel.png",
+	"frame": {"x":2477,"y":1376,"w":368,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":368,"h":453},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "mercury.png",
+	"frame": {"x":2953,"y":465,"w":388,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":388,"h":448},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "nenshi.png",
+	"frame": {"x":3208,"y":1,"w":387,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":387,"h":462},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "nixon-hipster.png",
+	"frame": {"x":1197,"y":470,"w":347,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":347,"h":462},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "nixon.png",
+	"frame": {"x":1525,"y":934,"w":360,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":360,"h":462},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "notley-active.png",
+	"frame": {"x":2408,"y":1,"w":400,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":400,"h":448},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "notley.png",
+	"frame": {"x":2810,"y":1,"w":396,"h":450},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":396,"h":450},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "phillips.png",
+	"frame": {"x":1831,"y":1398,"w":368,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":368,"h":433},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "shepherd.png",
+	"frame": {"x":1146,"y":1402,"w":381,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":381,"h":445},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "simons.png",
+	"frame": {"x":1828,"y":459,"w":372,"h":465},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":372,"h":465},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "singh.png",
+	"frame": {"x":1,"y":469,"w":399,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":467},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "starke.png",
+	"frame": {"x":401,"y":938,"w":357,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":467},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "thatcher.png",
+	"frame": {"x":760,"y":935,"w":383,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":467},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "trudeau.png",
+	"frame": {"x":403,"y":1,"w":400,"h":466},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":400,"h":466},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "velji.png",
+	"frame": {"x":3233,"y":1374,"w":352,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":352,"h":453},
+	"sourceSize": {"w":400,"h":467}
+},
+{
+	"filename": "wall.png",
+	"frame": {"x":2619,"y":911,"w":285,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":285,"h":455},
+	"sourceSize": {"w":400,"h":467}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "portraits-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":3635,"h":1848},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae11fb64052f1478781108ccc0824bc7:d89fcd619965d047068056558bd07ef4:55b63ae9a210ce23765d7c748650e4fc$"
+}
+}

@@ -1,0 +1,88 @@
+{
+  "resources": [
+    "musicSprite.ogg",
+    "musicSprite.mp3"
+  ],
+  "spritemap": {
+    "theme-intro": {
+      "start": 0,
+      "end": 43.824013605442175,
+      "loop": false
+    },
+    "theme-main": {
+      "start": 45,
+      "end": 140.76,
+      "loop": true
+    },
+    "theme-pantheon": {
+      "start": 142,
+      "end": 216.7,
+      "loop": true
+    },
+    "camp": {
+      "start": 218,
+      "end": 359.92326530612246,
+      "loop": true
+    },
+    "theme-dungeon": {
+      "start": 361,
+      "end": 442.92,
+      "loop": true
+    },
+    "theme-ndp": {
+      "start": 444,
+      "end": 508.29600907029476,
+      "loop": true
+    },
+    "achievement": {
+      "start": 510,
+      "end": 514.8480045351474,
+      "loop": false
+    },
+    "theme-gameOver": {
+      "start": 516,
+      "end": 519.6240136054422,
+      "loop": false
+    },
+    "boss-intro": {
+      "start": 521,
+      "end": 536.0960090702948,
+      "loop": false
+    },
+    "boss-main": {
+      "start": 538,
+      "end": 606.6640136054422,
+      "loop": true
+    },
+    "theme-horgan": {
+      "start": 608,
+      "end": 618.08,
+      "loop": false
+    },
+    "theme-fildebrandt": {
+      "start": 620,
+      "end": 657.8240136054421,
+      "loop": true
+    },
+    "song-ndp": {
+      "start": 659,
+      "end": 676.2080045351474,
+      "loop": false
+    },
+    "theme-edmonton": {
+      "start": 678,
+      "end": 744.6,
+      "loop": true
+    },
+    "marchToWar": {
+      "start": 746,
+      "end": 876.0897959183674,
+      "loop": false
+    },
+    "intermission": {
+      "start": 878,
+      "end": 900.7526530612245,
+      "loop": true
+    }
+  }
+}

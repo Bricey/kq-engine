@@ -1,0 +1,37 @@
+body,html {
+    margin: 0;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+#app {
+	width: 100%;
+	max-width: 940px;
+	height: 100%;
+	max-height: 600px;
+}
+
+#ad-box {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: none;
+    z-index:5;
+    pointer-events: none;
+}
+
+#ad-box .wrapper {
+    width: inherit;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ad-box.show {
+    display: inline-block;
+    pointer-events: auto;
+}

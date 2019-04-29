@@ -1,0 +1,278 @@
+{
+  "resources": [
+    "_Final/sfxSprite.ogg",
+    "_Final/sfxSprite.mp3"
+  ],
+  "spritemap": {
+    "sfx_break": {
+      "start": 0,
+      "end": 0.6,
+      "loop": false
+    },
+    "sfx_wind": {
+      "start": 2,
+      "end": 14.06,
+      "loop": true
+    },
+    "sfx_rat": {
+      "start": 16,
+      "end": 16.36,
+      "loop": false
+    },
+    "sfx_exit": {
+      "start": 18,
+      "end": 18.504013605442175,
+      "loop": false
+    },
+    "sfx_truck": {
+      "start": 20,
+      "end": 23.336009070294786,
+      "loop": false
+    },
+    "sfx_dialogue_next": {
+      "start": 25,
+      "end": 25.12,
+      "loop": false
+    },
+    "sfx_dialogue_up": {
+      "start": 27,
+      "end": 27.67918367346939,
+      "loop": false
+    },
+    "sfx_enemy_death": {
+      "start": 29,
+      "end": 29.6,
+      "loop": false
+    },
+    "sfx_enemyHit": {
+      "start": 31,
+      "end": 31.144013605442176,
+      "loop": false
+    },
+    "sfx_dragon_stomp": {
+      "start": 33,
+      "end": 34.08,
+      "loop": false
+    },
+    "sfx_freeze": {
+      "start": 36,
+      "end": 36.26401360544218,
+      "loop": false
+    },
+    "sfx_heart": {
+      "start": 38,
+      "end": 38.24,
+      "loop": false
+    },
+    "sfx_dragon_roar": {
+      "start": 40,
+      "end": 42.68800453514739,
+      "loop": false
+    },
+    "sfx_ice_blast": {
+      "start": 44,
+      "end": 44.45600907029478,
+      "loop": false
+    },
+    "sfx_player_hit": {
+      "start": 46,
+      "end": 46.16800453514739,
+      "loop": false
+    },
+    "sfx_projectile": {
+      "start": 48,
+      "end": 48.21600907029478,
+      "loop": false
+    },
+    "sfx_recharge": {
+      "start": 50,
+      "end": 50.62401360544218,
+      "loop": false
+    },
+    "sfx_laugh": {
+      "start": 52,
+      "end": 53.75201814058957,
+      "loop": false
+    },
+    "sfx_sword_shine": {
+      "start": 55,
+      "end": 55.864013605442175,
+      "loop": false
+    },
+    "sfx_jump_up": {
+      "start": 57,
+      "end": 57.45600907029478,
+      "loop": false
+    },
+    "sfx_jump_upDown": {
+      "start": 59,
+      "end": 59.62401360544218,
+      "loop": false
+    },
+    "sfx_dragon_takeoff": {
+      "start": 61,
+      "end": 63.85600907029478,
+      "loop": false
+    },
+    "sfx_dragon_scream": {
+      "start": 65,
+      "end": 67.08800453514739,
+      "loop": false
+    },
+    "sfx_flame": {
+      "start": 69,
+      "end": 72.00408163265305,
+      "loop": false
+    },
+    "sfx_shake": {
+      "start": 74,
+      "end": 75.60800453514739,
+      "loop": false
+    },
+    "sfx_ball": {
+      "start": 77,
+      "end": 77.50401360544218,
+      "loop": false
+    },
+    "sfx_health": {
+      "start": 79,
+      "end": 79.26401360544217,
+      "loop": false
+    },
+    "sfx_carHorn": {
+      "start": 81,
+      "end": 81.32401360544218,
+      "loop": false
+    },
+    "sfx_fireball": {
+      "start": 83,
+      "end": 83.31201814058957,
+      "loop": false
+    },
+    "sfx_fireballBig": {
+      "start": 85,
+      "end": 87.49156462585034,
+      "loop": false
+    },
+    "sfx_fireballExplode": {
+      "start": 89,
+      "end": 89.35848072562358,
+      "loop": false
+    },
+    "sfx_floodWine": {
+      "start": 91,
+      "end": 95.67770975056689,
+      "loop": false
+    },
+    "sfx_handDeath": {
+      "start": 97,
+      "end": 98.5,
+      "loop": false
+    },
+    "sfx_horganEnter": {
+      "start": 100,
+      "end": 100.86401360544218,
+      "loop": false
+    },
+    "sfx_menuMove": {
+      "start": 102,
+      "end": 102.05160997732426,
+      "loop": false
+    },
+    "sfx_menuUp": {
+      "start": 104,
+      "end": 104.28734693877551,
+      "loop": false
+    },
+    "sfx_ratDeath": {
+      "start": 106,
+      "end": 106.43337868480725,
+      "loop": false
+    },
+    "sfx_treeFall": {
+      "start": 108,
+      "end": 109.56537414965986,
+      "loop": false
+    },
+    "sfx_trucksLoop": {
+      "start": 111,
+      "end": 112.10002267573697,
+      "loop": false
+    },
+    "sfx_signal": {
+      "start": 114,
+      "end": 114.6480045351474,
+      "loop": false
+    },
+    "sfx_playerDeath": {
+      "start": 116,
+      "end": 117.11600907029478,
+      "loop": false
+    },
+    "sfx_horn": {
+      "start": 119,
+      "end": 123.58401360544218,
+      "loop": false
+    },
+    "sfx_dragon_chomp": {
+      "start": 125,
+      "end": 125.81600907029478,
+      "loop": false
+    },
+    "sfx_handCrush": {
+      "start": 127,
+      "end": 128.2016326530612,
+      "loop": false
+    },
+    "sfx_handSwat": {
+      "start": 130,
+      "end": 130.94040816326532,
+      "loop": false
+    },
+    "sfx_handFall": {
+      "start": 132,
+      "end": 132.54857142857142,
+      "loop": false
+    },
+    "sfx_healthFull": {
+      "start": 134,
+      "end": 134.47020408163266,
+      "loop": false
+    },
+    "sfx_buttonMash": {
+      "start": 136,
+      "end": 136.13061224489795,
+      "loop": false
+    },
+    "sfx_healthLow": {
+      "start": 138,
+      "end": 138.6530612244898,
+      "loop": false
+    },
+    "sfx_item": {
+      "start": 140,
+      "end": 140.54857142857142,
+      "loop": false
+    },
+    "sfx_success": {
+      "start": 142,
+      "end": 142.6960090702948,
+      "loop": false
+    },
+    "sfx_fail": {
+      "start": 144,
+      "end": 144.62401360544217,
+      "loop": false
+    },
+    "sfx_wheel_flood": {
+      "start": 146,
+      "end": 149.78775510204082,
+      "loop": false
+    },
+    "sfx_clapping": {
+      "start": 151,
+      "end": 155.08,
+      "loop": false
+    }
+  }
+}

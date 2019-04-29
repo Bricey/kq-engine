@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "cloud-01.png",
+	"frame": {"x":822,"y":1014,"w":76,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":51},
+	"sourceSize": {"w":76,"h":51}
+},
+{
+	"filename": "cloud-02.png",
+	"frame": {"x":822,"y":1067,"w":76,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":51},
+	"sourceSize": {"w":76,"h":51}
+},
+{
+	"filename": "curtain.png",
+	"frame": {"x":1,"y":1045,"w":470,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":151},
+	"sourceSize": {"w":470,"h":152}
+},
+{
+	"filename": "desert.png",
+	"frame": {"x":822,"y":1120,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "dragon-flying-away.png",
+	"frame": {"x":243,"y":1198,"w":165,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":45},
+	"sourceSize": {"w":165,"h":45}
+},
+{
+	"filename": "grass.png",
+	"frame": {"x":856,"y":1120,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "intro-clouds-01.png",
+	"frame": {"x":460,"y":603,"w":470,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":145},
+	"sourceSize": {"w":470,"h":145}
+},
+{
+	"filename": "intro-mountains-01.png",
+	"frame": {"x":473,"y":1161,"w":470,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":87},
+	"sourceSize": {"w":470,"h":87}
+},
+{
+	"filename": "intro-mountains-02.png",
+	"frame": {"x":460,"y":750,"w":470,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":145},
+	"sourceSize": {"w":470,"h":145}
+},
+{
+	"filename": "intro-mountains-03.png",
+	"frame": {"x":460,"y":897,"w":470,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":115},
+	"sourceSize": {"w":470,"h":115}
+},
+{
+	"filename": "logo.png",
+	"frame": {"x":473,"y":1014,"w":347,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":347,"h":145},
+	"sourceSize": {"w":350,"h":149}
+},
+{
+	"filename": "snow.png",
+	"frame": {"x":890,"y":1120,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "startScreen-bg.png",
+	"frame": {"x":1,"y":1,"w":940,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":600},
+	"sourceSize": {"w":940,"h":600}
+},
+{
+	"filename": "startScreen-kenney.png",
+	"frame": {"x":1,"y":603,"w":457,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":457,"h":440},
+	"sourceSize": {"w":457,"h":440}
+},
+{
+	"filename": "sunset-grass.png",
+	"frame": {"x":900,"y":1014,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "trees.png",
+	"frame": {"x":1,"y":1198,"w":240,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":23},
+	"sourceSize": {"w":240,"h":23}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bg-textures.png",
+	"format": "RGBA8888",
+	"size": {"w":944,"h":1249},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:786f5b05500260c36b7208209b24d429:d590f6031dda80ba902d4349d0d2a435:8ff730fe90841ff0391aa5123ce17ebb$"
+}
+}
