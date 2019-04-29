@@ -65,4 +65,4 @@ this.map.addTilesetImage('street');     // MUST BE ADDED
 ## License
 
 [The MIT License](http://piecioshka.mit-license.org) @ 2016
- -->
+ --># kq-engine
